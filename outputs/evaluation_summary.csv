@@ -1,0 +1,10 @@
+Metric,Value
+Silhouette Score,0.3594405380095684
+Davies-Bouldin Index,1.015691798105841
+Calinski-Harabasz Score,1786.44359873018
+NMI vs ICD-9,0.06490439841108481
+ARI vs ICD-9,0.00022985266722085412
+Average Topic Overlap,0.21904761904761905
+Number of Clusters,7.0
+Number of Topics,15.0
+Patients,10710.0
