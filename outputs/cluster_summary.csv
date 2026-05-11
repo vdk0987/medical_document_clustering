@@ -1,0 +1,8 @@
+cluster,n_patients,avg_complexity,mortality_rate,dominant_topic,top_terms
+0,7343,1.1619229197875527,0.11239939980903015,7,"abdominal pain, abdominal, cirrhosis, ascites, liver"
+1,1699,2.4267216009417303,0.10206489675516224,2,"artery, artery disease, coronary, coronary artery, disease"
+2,325,1.5261538461538462,0.08307692307692308,11,"ICD_96509, respiratory, respiratory distress, palate, labor"
+3,480,1.5541666666666667,0.08823529411764706,6,"ICD_3968, respiratory, respiratory distress, distress, palate"
+4,97,2.195876288659794,0.07216494845360824,3,"ventricle, left ventricle, thickness, thickness left, dimension"
+5,391,1.8900255754475703,0.1211340206185567,8,"ICD_4280, sepsis, hypotensive, hypotension, septic"
+6,375,1.7333333333333334,0.0962566844919786,14,"ICD_86509, respiratory, respiratory distress, labor, preterm"
